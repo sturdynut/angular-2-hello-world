@@ -1,2 +1,1 @@
-# webpack-me
-A demonstration of using the webpack library for module loading.
+# Just an Angular 2.0 hello world app.
